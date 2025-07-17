@@ -1,0 +1,10 @@
+﻿  源.cpp
+D:\File\vs2022code\PacMan\源.cpp(277,180): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\File\vs2022code\PacMan\源.cpp(283,185): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\File\vs2022code\PacMan\源.cpp(300,173): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\File\vs2022code\PacMan\源.cpp(306,173): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\File\vs2022code\PacMan\源.cpp(323,145): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\File\vs2022code\PacMan\源.cpp(329,145): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\File\vs2022code\PacMan\源.cpp(346,157): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\File\vs2022code\PacMan\源.cpp(352,157): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  PacMan.vcxproj -> D:\File\vs2022code\PacMan\x64\Debug\PacMan.exe
